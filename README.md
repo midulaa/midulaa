@@ -87,16 +87,6 @@ dream      : Build products used by millions 🚀
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=midulaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
